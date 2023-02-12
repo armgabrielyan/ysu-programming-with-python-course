@@ -130,3 +130,6 @@ dmypy.json
 
 # Books
 /books
+
+# Test
+test.py
