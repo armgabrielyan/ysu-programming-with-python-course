@@ -19,11 +19,11 @@ Problem 1
 
 - Solution files should be uploaded to [YSU Moodle](https://e-learning.ysu.am/). Alternatively, you can commit your solutions to a Git repository and provide the repository URL on Moodle.
 
-## Problem 1
+## Problem 1 [10 points]
 
 State an example of a **declarative** knowledge and its corresponding **imperative** knowledge.
 
-## Problem 2
+## Problem 2 [15 points]
 
 We have studied an example of an imperative algorithm for finding the square root of a number. Apply the algorithm to find the square root of a number $x$, when $x$ is defined as follows:
 
@@ -36,7 +36,7 @@ Please show the details of your calculations.
 
 **Note 2:** You can solve this problem manually and show your calculations on paper. Nevertheless, you are advised to use Python as a calculator and show your computations in a Python script.
 
-## Problem 3
+## Problem 3 [25 points]
 
 Let us consider Mathematics as a language. For each of the following exercises, state if the sentence is correct in terms of syntax and static semantics. If it is correct both syntactically and static semantically, then state its semantics. Explain your answers.
 
@@ -73,7 +73,7 @@ Let us consider Mathematics as a language. For each of the following exercises, 
 <!-- 9. If $a$ and $b$ are sides of a right triangle and $c$ is its hypotenuse, then $a^2 + b^2 = c^2$. -->
 10. Find $\int e^x$.
 
-## Problem 4
+## Problem 4 [20 points]
 
 Which of the following names are valid variable names in Python? Explain your reasoning.
 
@@ -98,7 +98,7 @@ Which of the following names are valid variable names in Python? Explain your re
 
 **Note:** It is possible to check the answers using Python, but first try to find the answers yourself.
 
-## Problem 5
+## Problem 5 [20 points]
 
 State the types of `x`, `y` and `z` variables at the end of each Python code snippet.
 
@@ -180,7 +180,7 @@ z = '5e7'
 
 **Note:** It is possible to check the answers using Python, but first try to find the answers yourself. After that, you are advised to write a program that outputs the type of each variable.
 
-## Problem 6
+## Problem 6 [10 points]
 
 Write a Python program that asks the user to input the following details:
 
