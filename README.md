@@ -16,3 +16,6 @@ Resources related to "Programming with Python" course taught at Yerevan State Un
 - Homework 01
     - [MD](homeworks/Homework01.md) 
     - [PDF](homeworks/Homework01.pdf)
+- Homework 02
+    - [MD](homeworks/Homework02.md) 
+    - [PDF](homeworks/Homework02.pdf)
