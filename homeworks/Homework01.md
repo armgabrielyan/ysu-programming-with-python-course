@@ -193,7 +193,7 @@ Afterwards the program welcomes the user and prints user's information.
 The following shows an example program in action.
 
 ```sh
-$ python problem2.py
+$ python problem6.py
 What is your first name? John
 What is your last name? Doe
 What is your date of birth? 17/06/1942
