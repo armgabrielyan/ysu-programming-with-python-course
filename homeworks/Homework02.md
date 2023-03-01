@@ -24,7 +24,7 @@ Problem 1
 
 - Solution files should be uploaded to [YSU Moodle](https://e-learning.ysu.am/). Alternatively, you can commit your solutions to a Git repository and provide the repository URL on Moodle.
 
-$$\pagebreak$$
+<!-- $$\pagebreak$$ -->
 
 ## Problem 1
 
@@ -60,7 +60,7 @@ Player 2: scissor
 Player 2 It is a draw.
 ```
 
-$$\pagebreak$$
+<!-- $$\pagebreak$$ -->
 
 ## Problem 3
 
@@ -89,7 +89,7 @@ BMI is 23.15.
 BMI category is Normal.
 ```
 
-$$\pagebreak$$
+<!-- $$\pagebreak$$ -->
 
 ## Problem 4
 
@@ -132,7 +132,7 @@ After toggling the 2th bit: 46
 The 2th bit of 42 is not set
 ```
 
-$$\pagebreak$$
+<!-- $$\pagebreak$$ -->
 
 ## Problem 6
 
@@ -160,7 +160,7 @@ Enter c: -4.4
 The root is 1.76.
 ```
 
-$$\pagebreak$$
+<!-- $$\pagebreak$$ -->
 
 ## Problem 7
 
@@ -197,15 +197,18 @@ Enter y_3: 5
 No such triangle exists.
 ```
 
-$$\pagebreak$$
+<!-- $$\pagebreak$$ -->
 
 ## Problem 8
 
 To solve a $2 \times 2$ system of linear equations, we can use Cramer’s rule. Given the following system of linear equations,
 
 $$
-ax + by = e \\
+\begin{align*}
+ax + by = e
+\\
 cx + dy = f
+\end{align*}
 $$
 
 Cramer’s rule provides the solution as follows:
@@ -238,7 +241,7 @@ Enter f: 2
 No solution exists.
 ```
 
-$$\pagebreak$$
+<!-- $$\pagebreak$$ -->
 
 ## Problem 9
 
@@ -264,7 +267,7 @@ Enter temperature in degrees: -18
 The temperature of 0F is -18C.
 ```
 
-$$\pagebreak$$
+<!-- $$\pagebreak$$ -->
 
 ## Problem 10
 

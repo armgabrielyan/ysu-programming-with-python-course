@@ -19,6 +19,8 @@ Problem 1
 
 - Solution files should be uploaded to [YSU Moodle](https://e-learning.ysu.am/). Alternatively, you can commit your solutions to a Git repository and provide the repository URL on Moodle.
 
+<!-- $$\pagebreak$$ -->
+
 ## Problem 1 [10 points]
 
 State an example of a **declarative** knowledge and its corresponding **imperative** knowledge.
@@ -35,6 +37,8 @@ Please show the details of your calculations.
 **Note 1:** In the context of this problem we define that $x$ is close enough to $y$ if and only if the absolute difference between $x$ and $y$ is less than $10^{-3}$, i.e. $|x - y| < 10^{-3}$.
 
 **Note 2:** You can solve this problem manually and show your calculations on paper. Nevertheless, you are advised to use Python as a calculator and show your computations in a Python script.
+
+<!-- $$\pagebreak$$ -->
 
 ## Problem 3 [25 points]
 
@@ -70,7 +74,6 @@ Let us consider Mathematics as a language. For each of the following exercises, 
 7. $A = \{ 1, 2, \dots, 5 \}$ and $B = \{ 6, 7, \dots, 10 \}$. Find $A \times B$.
 8. Calculate $\sum_1^{100}{\frac{1}{\log}}$
 9. If $a$, $b$ are sides and $c$ is the hypotenuse of a right triangle, then $a^2 + b^2 = c^2$.
-<!-- 9. If $a$ and $b$ are sides of a right triangle and $c$ is its hypotenuse, then $a^2 + b^2 = c^2$. -->
 10. Find $\int e^x$.
 
 ## Problem 4 [20 points]
@@ -97,6 +100,8 @@ Which of the following names are valid variable names in Python? Explain your re
 11. `__False`
 
 **Note:** It is possible to check the answers using Python, but first try to find the answers yourself.
+
+<!-- $$\pagebreak$$ -->
 
 ## Problem 5 [20 points]
 
@@ -162,6 +167,8 @@ y = 'Jane Lee'
 z = 'programming'
 ```
 
+<!-- $$\pagebreak$$ -->
+
 6.
 
 ```python
@@ -179,6 +186,8 @@ z = '5e7'
 ```
 
 **Note:** It is possible to check the answers using Python, but first try to find the answers yourself. After that, you are advised to write a program that outputs the type of each variable.
+
+<!-- $$\pagebreak$$ -->
 
 ## Problem 6 [10 points]
 
