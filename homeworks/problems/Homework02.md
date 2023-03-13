@@ -26,7 +26,7 @@ Problem 1
 
 <!-- $$\pagebreak$$ -->
 
-## Problem 1
+## Problem 1 [10 points]
 
 Write a Python program that computes and displays the values of the following expressions:
 
@@ -34,7 +34,7 @@ Write a Python program that computes and displays the values of the following ex
 
 2. $$\frac{1^3 + 2^3 + 3^3 + 4^3 + 5^3}{(56 \times 47) \bmod 13 - 4 ^ {5 ^ 6} \bmod 7 }$$
 
-## Problem 2
+## Problem 2 [10 points]
 
 Write a program that allows the users to play the scissor, rock, paper game. The rules are as follows:
 
@@ -62,7 +62,7 @@ Player 2 It is a draw.
 
 <!-- $$\pagebreak$$ -->
 
-## Problem 3
+## Problem 3 [10 points]
 
 Body mass index (BMI) is a measure derived from the height and weight of a person. It can be calculated by dividing person's weight in kilograms by the square of their height in meters, i.e.:
 
@@ -72,7 +72,7 @@ The health of a person can be measured using the following interpretation:
 
 | Category    | BMI                 |
 |-------------|---------------------|
-| Underweight | $BMI < 16.0$        |
+| Underweight | $BMI < 18.5$        |
 | Normal      | $18.5 \le BMI < 25$ |
 | Overweight  | $25 \le BMI < 30$   |
 | Obese       | $30 \le BMI$        |
@@ -91,7 +91,7 @@ BMI category is Normal.
 
 <!-- $$\pagebreak$$ -->
 
-## Problem 4
+## Problem 4 [10 points]
 
 Write a program that asks the user to enter an integer and outputs `True` if the provided number is a power of $2$. Otherwise, it displays `False`.
 
@@ -111,7 +111,7 @@ Enter an integer: 9
 False
 ```
 
-## Problem 5
+## Problem 5 [10 points]
 
 Write a Python program that asks the user to input a $number$ and a value of $n$, which shows a bit position. The program performs the following tasks and displays the results:
 
@@ -134,7 +134,7 @@ The 2th bit of 42 is not set
 
 <!-- $$\pagebreak$$ -->
 
-## Problem 6
+## Problem 6 [10 points]
 
 Write a Python program that prompts the user to enter real number values for $a$, $b$ and $c$ and solves the following equation:
 
@@ -162,7 +162,7 @@ The root is 1.76.
 
 <!-- $$\pagebreak$$ -->
 
-## Problem 7
+## Problem 7 [10 points]
 
 The area of a triangle can be calculated using the following formula:
 
@@ -199,7 +199,7 @@ No such triangle exists.
 
 <!-- $$\pagebreak$$ -->
 
-## Problem 8
+## Problem 8 [10 points]
 
 To solve a $2 \times 2$ system of linear equations, we can use Cramer’s rule. Given the following system of linear equations,
 
@@ -243,7 +243,7 @@ No solution exists.
 
 <!-- $$\pagebreak$$ -->
 
-## Problem 9
+## Problem 9 [10 points]
 
 The following is the formula of temperature conversion from Celsius to Fahrenheit:
 
@@ -263,13 +263,13 @@ The temperature of 0C is 32F.
 ```sh
 $ python problem9.py
 Which conversion to choose (C-F or F-C): F-C
-Enter temperature in degrees: -18
-The temperature of 0F is -18C.
+Enter temperature in degrees: 0
+The temperature of 0F is -17.78.
 ```
 
 <!-- $$\pagebreak$$ -->
 
-## Problem 10
+## Problem 10 [10 points]
 
 Zeller's congruence is a mathematical formula created by Christian Zeller for determining the day of the week. The formula is as follows:
 
