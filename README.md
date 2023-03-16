@@ -39,3 +39,10 @@ Resources related to "Programming with Python" course taught at Yerevan State Un
     - Solutions
         - [MD](pss/solutions/PSS01.md)
         - [PDF](pss/solutions/PSS01.pdf)
+
+## Exams 💯
+
+- Midterm 1
+    - Project ideas
+        - [MD](exams/midterm_1/Project%20ideas.md)
+        - [PDF](exams/midterm_1/Project%20ideas.pdf)
