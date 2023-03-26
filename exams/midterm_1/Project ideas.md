@@ -6,14 +6,17 @@
 4. Maze generator / solver
 5. Contact management
 6. Password management
-7. Budget planner
-8. Task management
-9. Text-based adventure game
-10. Write an interpreter (Lisp)
-11. Tic tac toe game
-12. Memory puzzle game
-13. Implementation of different data structures and algorithms (stack, queue, linked list, trees, sorting and searching algorithms, etc.)
-14. Hangman game
-15. Blackjack / poker game
-16. Library management system
-17. Hospital management system
+7. Password generator
+8. Budget planner
+9. Task management
+10. Text-based adventure game
+11. Write an interpreter (e.g. Lisp
+12. Tic tac toe game
+13. Memory puzzle game
+14. Implementation of different data structures and algorithms (stack, queue, linked list, trees, sorting and searching algorithms, etc.)
+15. Hangman game
+16. Blackjack game
+17. Poker game
+18. Library management system
+19. Hospital management system
+20. Your idea
