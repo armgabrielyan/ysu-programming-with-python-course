@@ -17,6 +17,7 @@ Resources related to "Programming with Python" course taught at Yerevan State Un
 - [Lecture 11](lectures/Lecture11.ipynb)
 - [Lecture 12](lectures/Lecture12.ipynb)
 - [Lecture 13](lectures/Lecture13.ipynb)
+- [Lecture 14](lectures/Lecture14.ipynb)
 
 ## Homeworks 📝
 
