@@ -10,7 +10,7 @@
 8. Budget planner
 9. Task management
 10. Text-based adventure game
-11. Write an interpreter (e.g. Lisp
+11. Write an interpreter (e.g. Lisp)
 12. Tic tac toe game
 13. Memory puzzle game
 14. Implementation of different data structures and algorithms (stack, queue, linked list, trees, sorting and searching algorithms, etc.)
