@@ -30,6 +30,7 @@ Resources related to "Programming with Python" course taught at Yerevan State Un
 - [Lecture 24](lectures/Lecture24.ipynb)
 - [Lecture 25](lectures/Lecture25.ipynb)
 - [Lecture 26](lectures/Lecture26.ipynb)
+- [Lecture 27](lectures/Lecture26.ipynb)
 
 ## Homeworks 📝
 
@@ -73,3 +74,7 @@ Resources related to "Programming with Python" course taught at Yerevan State Un
     - Project ideas
         - [MD](exams/midterm_1/Project%20ideas.md)
         - [PDF](exams/midterm_1/Project%20ideas.pdf)
+- Midterm 2
+    - Project ideas
+        - [MD](exams/midterm_2/Project%20ideas.md)
+        - [PDF](exams/midterm_2/Project%20ideas.pdf)
