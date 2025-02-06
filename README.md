@@ -32,6 +32,7 @@ Resources related to "Programming with Python" course taught at Yerevan State Un
 - [Lecture 26](lectures/Lecture26.ipynb)
 - [Lecture 27](lectures/Lecture27.ipynb)
 - [Lecture 28](lectures/Lecture28.ipynb)
+- [Lecture 29](lectures/Lecture29.ipynb)
 
 ## Homeworks 📝
 
@@ -50,6 +51,10 @@ Resources related to "Programming with Python" course taught at Yerevan State Un
     - Problems
         - [MD](homeworks/problems/Homework03.md) 
         - [PDF](homeworks/problems/Homework03.pdf)
+- Homework 04
+    - Problems
+        - [MD](homeworks/problems/Homework04.md) 
+        - [PDF](homeworks/problems/Homework04.pdf)
 
 ## Problem solving sessions 🤔
 
@@ -79,3 +84,11 @@ Resources related to "Programming with Python" course taught at Yerevan State Un
     - Project ideas
         - [MD](exams/midterm_2/Project%20ideas.md)
         - [PDF](exams/midterm_2/Project%20ideas.pdf)
+
+## Setup
+
+To convert Markdown files to PDF files, use the following command:
+
+```shell
+pandoc example.md -o example.pdf --pdf-engine=xelatex
+```
