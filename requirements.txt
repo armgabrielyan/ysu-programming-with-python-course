@@ -1,3 +1,1 @@
-notebook==6.5.2
-rise==5.7.1
-PyQtWebEngine==5.15.6
+notebook==6.5.7
