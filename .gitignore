@@ -135,3 +135,6 @@ dmypy.json
 test.py
 
 .DS_Store
+
+# submissions
+submissions/

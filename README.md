@@ -3,6 +3,7 @@
 Resources related to "Programming with Python" course taught at Yerevan State University.
 
 - [2023 spring](2023-spring)
+- [2025 spring](2025-spring)
 
 ## Setup
 
