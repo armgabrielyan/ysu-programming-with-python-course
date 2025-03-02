@@ -16,7 +16,3 @@ def compute_sum(t: tuple[int, ...]) -> int:
 
 compute_sum((1, 2, 3))
 compute_sum((1, 2, 3, 4, 5))
-
-x: tuple[int, int] = (1, 2)
-
-print(x.__annotations__)
