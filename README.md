@@ -7,6 +7,13 @@ Resources related to "Programming with Python" course taught at Yerevan State Un
 
 ## Setup
 
+Install the required libraries:
+
+```shell
+brew install pandoc
+brew install --cask basictex
+```
+
 To convert Markdown files to PDF files, use the following command:
 
 ```shell

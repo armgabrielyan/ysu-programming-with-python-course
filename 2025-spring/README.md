@@ -4,3 +4,14 @@
 - [Lecture 02: Object-oriented programming](lectures/Lecture02.ipynb)
 - [Lecture 03: Exceptions, context management, collections](lectures/Lecture03.ipynb)
 - [Lecture 04: Walrus operator, pattern matching, type hints](lectures/Lecture04/Lecture04.ipynb)
+
+## Homeworks 📝
+
+- Homework 01
+    - Problems
+        - [MD](homeworks/Homework01.md) 
+        - [PDF](homeworks/Homework01.pdf)
+- Homework 02
+    - Problems
+        - [MD](homeworks/Homework02.md) 
+        - [PDF](homeworks/Homework02.pdf)
