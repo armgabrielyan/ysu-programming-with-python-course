@@ -10,6 +10,3 @@ process_list(int_list)
 process_list(float_list)
 
 T = TypeVar("T") # Invariant by default
-
-def get_first_item(items: list[T]) -> T:
-    return items[0]

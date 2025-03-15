@@ -1,6 +1,6 @@
-from typing import Callable
+from typing import Callable, TypeVar
 
-def get_number() -> int:
+def get_int() -> int:
     return 42
 
 def get_float() -> float:
@@ -12,6 +12,8 @@ def get_complex() -> complex:
 def print_func_result(func: Callable[[], float]) -> None:
     print(func())
 
-print_func_result(get_number)
+print_func_result(get_int)
 print_func_result(get_float)
 print_func_result(get_complex)
+
+T_co = TypeVar("T_co", covariant=True)

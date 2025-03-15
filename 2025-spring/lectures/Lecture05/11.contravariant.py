@@ -1,4 +1,4 @@
-from typing import Callable
+from typing import Callable, TypeVar
 
 def process_number(func: Callable[[float], None]) -> None:
     func(42)
@@ -15,3 +15,5 @@ def print_complex(n: complex) -> None:
 process_number(print_int)
 process_number(print_float)
 process_number(print_complex)
+
+T_contra = TypeVar("T_contra", contravariant=True)
