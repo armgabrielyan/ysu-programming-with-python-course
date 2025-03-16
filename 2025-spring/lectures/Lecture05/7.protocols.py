@@ -1,4 +1,4 @@
-from typing import Any, Protocol, TypeVar
+from typing import Any, Protocol, TypeVar  
 from collections.abc import Iterable
 
 # The following code does not enforce type constraints on T correctly.
@@ -15,8 +15,7 @@ sort_items1(lst)
 
 class SupportsLessThan(Protocol):
     # For more information why positional-only arguments are used here, see https://github.com/microsoft/pyright/issues/5432#issuecomment-1622065339
-    def __lt__(self, other: Any, /) -> bool:
-        ...
+    def __lt__(self, other: Any, /) -> bool: ...
 
 LT = TypeVar("LT", bound=SupportsLessThan)
 

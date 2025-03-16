@@ -7,6 +7,7 @@ def filter_even_numbers(numbers: Collection[int]) -> list[int]:
 filter_even_numbers({1, 2, 3, 4, 5})
 filter_even_numbers([1, 2, 3, 4, 5])
 filter_even_numbers((1, 2, 3, 4, 5))
+# filter_even_numbers("123") # Incorrect type
 
 
 def get_keys_with_high_values(mapping: Mapping[str, int], threshold: int) -> list[str]:
