@@ -5,7 +5,7 @@
 - [Lecture 03: Exceptions, context management, collections](lectures/Lecture03.ipynb)
 - [Lecture 04: Walrus operator, pattern matching, type hints](lectures/Lecture04/Lecture04.ipynb)
 - [Lecture 05: Type hints](lectures/Lecture05/Lecture05.ipynb)
-- [Lecture 06: Type hints, descriptors](lectures/Lecture06/Lecture06.ipynb)
+- [Lecture 06: Type hints, descriptors, metaprogramming](lectures/Lecture06/Lecture06.ipynb)
 
 ## Homeworks 📝
 
