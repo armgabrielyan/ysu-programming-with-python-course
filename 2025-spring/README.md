@@ -6,6 +6,7 @@
 - [Lecture 04: Walrus operator, pattern matching, type hints](lectures/Lecture04/Lecture04.ipynb)
 - [Lecture 05: Type hints](lectures/Lecture05/Lecture05.ipynb)
 - [Lecture 06: Type hints, descriptors, metaprogramming](lectures/Lecture06/Lecture06.ipynb)
+- [Lecture 07: Metaprogramming and descriptors](lectures/Lecture07/Lecture07.ipynb)
 
 ## Homeworks 📝
 
