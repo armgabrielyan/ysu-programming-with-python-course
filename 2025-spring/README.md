@@ -18,3 +18,7 @@
     - Problems
         - [MD](homeworks/Homework02.md) 
         - [PDF](homeworks/Homework02.pdf)
+- Homework 03
+    - Problems
+        - [MD](homeworks/Homework03.md) 
+        - [PDF](homeworks/Homework03.pdf)
