@@ -20,10 +20,10 @@ def producer():
 
 
 def consumer():
-    while True:
-        item = task_queue.get()  # Will block if queue is empty
-        if item is None:
-            break
+    while item := task_queue.get():
+        # item = task_queue.get()  # Will block if queue is empty
+        # if item is None:
+        #     break
 
         print(f"Consumed: {item}")
         
