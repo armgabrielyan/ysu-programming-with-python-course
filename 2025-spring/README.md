@@ -9,6 +9,7 @@
 - [Lecture 07: Metaprogramming and descriptors](lectures/Lecture07/Lecture07.ipynb)
 - [Lecture 08: Class metaprogramming and memory management](lectures/Lecture08/Lecture08.ipynb)
 - [Lecture 09: Concurrency 1](lectures/Lecture09/Lecture09.ipynb)
+- [Lecture 10: Concurrency 2](lectures/Lecture10/Lecture10.ipynb)
 
 ## Homeworks 📝
 
