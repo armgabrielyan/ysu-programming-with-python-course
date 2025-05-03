@@ -1,5 +1,5 @@
 import ctypes
-from multiprocessing import Process, Lock
+from multiprocessing import Process
 from multiprocessing.sharedctypes import Array, Value
 
 
@@ -13,9 +13,11 @@ def update_points(counter, points, dx, dy):
         with points.get_lock():
             points[i].x += dx
             points[i].y += dy
-    counter.value += 1
-    print(f"[Process] Counter: {counter.value}")
-    print("  Updated points:", [(p.x, p.y) for p in points])
+    with counter.get_lock():
+        counter.value += 1
+        print(f"[Process] Counter: {counter.value}")
+    with points.get_lock():
+        print("Updated points:", [(p.x, p.y) for p in points])
 
 
 if __name__ == "__main__":
@@ -24,7 +26,6 @@ if __name__ == "__main__":
     # Shared counter and shared array of Points
     counter = Value(ctypes.c_int, 0)
     points = Array(Point, initial_points)
-    lock = Lock()
 
     # Movements to apply in different processes
     deltas = [(1, 1), (2, 0), (0, -1)]

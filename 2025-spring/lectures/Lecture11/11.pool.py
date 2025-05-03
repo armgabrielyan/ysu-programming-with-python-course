@@ -52,6 +52,7 @@ if __name__ == "__main__":
         start_time = time.perf_counter()
         for num in numbers:
             slow_factorial(num)
+            # factorial(num)
         sequential_time = time.perf_counter() - start_time
         print(f"Sequential calculation time: {sequential_time:.2f} seconds")
 
@@ -67,7 +68,7 @@ if __name__ == "__main__":
         # make a single worker sleep for 5 seconds to demonstrate timeout
         print("\nDemonstrating timeout handling:")
         res = pool.apply_async(time.sleep, (5,))
-        res.successful()
+        # res.successful()
         try:
             print(res.get(timeout=1))
         except TimeoutError:
