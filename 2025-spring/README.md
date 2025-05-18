@@ -11,6 +11,8 @@
 - [Lecture 09: Concurrency 1](lectures/Lecture09/Lecture09.ipynb)
 - [Lecture 10: Concurrency 2](lectures/Lecture10/Lecture10.ipynb)
 - [Lecture 11: Concurrency 3](lectures/Lecture11/Lecture11.ipynb)
+- [Lecture 12: Concurrency 4](lectures/Lecture12/Lecture12.ipynb)
+- [Lecture 13: Concurrency 5](lectures/Lecture13/Lecture13.ipynb)
 
 ## Homeworks 📝
 
