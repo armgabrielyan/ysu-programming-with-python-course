@@ -1,0 +1,20 @@
+[project]
+name = "book-api"
+version = "0.1.0"
+description = "Book API for managing book records"
+readme = "README.md"
+authors = [
+    { name = "Armen Gabrielyan", email = "armen.gabrielyan@ysu.am" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.115.12",
+    "sqlmodel>=0.0.24",
+]
+
+[project.scripts]
+book-api = "book_api:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
